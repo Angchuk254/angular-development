@@ -1,0 +1,26 @@
+.main{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 2%;
+    border: 1px solid black;
+}
+
+input[type=color][_ngcontent-ng-c1715448809] {
+  display: block;
+  margin-top: 5px;
+  border: none;
+  padding: 0;
+  background-color: #fff;
+}
+  .choose{
+    display: flex;
+      justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+  }
+  .choose div{
+    margin-right: 20px;
+  }
+
+  
